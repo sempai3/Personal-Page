@@ -1,3 +1,4 @@
+
 .aboutme:hover {
     box-shadow: 0 12px 16px 0 rgba(30, 255, 0, 0.24),0 17px 50px 0 rgb(0, 255, 0);
 
@@ -5,4 +6,29 @@
 
 .pagina:hover {
     box-shadow: 0 12px 16px 0 rgba(30, 255, 0, 0.24),0 17px 50px 0 rgb(255, 0, 0);
+}
+
+.img {
+
+    align-self: center;
+}
+.ira {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+}
+
+.welcome {
+    display: flex;
+    justify-content: center;
+}
+
+.moreinfo {
+    display:flex;
+    justify-content: center;
+}
+
+.name {
+    display: flex;
+    justify-content: center;
 }
